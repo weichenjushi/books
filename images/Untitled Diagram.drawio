@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T03:27:07.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.4.8" etag="pQ6Fd_46yKiIJfGivkMb" type="github"><diagram id="uJvg7x7NxUaT6jInBmhW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-14T04:08:28.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="jGuDV2FPaH4odBxfcJbB" version="14.4.8" type="github">
+  <diagram id="uJvg7x7NxUaT6jInBmhW" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Ncf0plIAyzqVNgNo4sfF-1" target="Ncf0plIAyzqVNgNo4sfF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-1" value="主动构建知识（旧知识）" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="135" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Ncf0plIAyzqVNgNo4sfF-2" target="Ncf0plIAyzqVNgNo4sfF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-2" value="定立计划（设立学习的目标和方法）" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Ncf0plIAyzqVNgNo4sfF-4" target="Ncf0plIAyzqVNgNo4sfF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-4" value="实施学习（新知识）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="Ncf0plIAyzqVNgNo4sfF-6" target="Ncf0plIAyzqVNgNo4sfF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncf0plIAyzqVNgNo4sfF-6" value="回顾整理（融入体系，完善体系）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
